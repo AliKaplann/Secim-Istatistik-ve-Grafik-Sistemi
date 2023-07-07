@@ -1,0 +1,12 @@
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\bin\Debug\SecimIstatistikVeGrafikSistemi.exe.config
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\bin\Debug\SecimIstatistikVeGrafikSistemi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\bin\Debug\SecimIstatistikVeGrafikSistemi.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.csproj.AssemblyReference.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.OyGiris.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.Grafikler.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.Properties.Resources.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.csproj.GenerateResource.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\SecimIstatistikVeGrafikSistemi\SecimIstatistikVeGrafikSistemi\obj\Debug\SecimIstatistikVeGrafikSistemi.pdb
